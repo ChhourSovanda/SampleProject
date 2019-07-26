@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/chhoursovanda/Lab/AboutMe/share/SampleProject/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
