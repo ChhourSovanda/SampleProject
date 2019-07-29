@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68a7c2cf8e919f2e759b49d6ca354049/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4c40809a112ed7b8bc0dab27812c0db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cd2758c8c3559a5a3e7e3f184b3836/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b7165aab9281091844b0a555f7ef055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8e563e96e65c063da033b836969bc09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661ee41c13147d147118b643167f4bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/781e3c4a77bfe2ed864508a47795937b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8aa5844f27cd73d6427611998c6071e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ad9f26b8b8b5285e64aa5f19f26a324d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/459d240cd4f3808075d1b4174fe61d88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da432fc12f21eeedb8e8abfe40f48652/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/37588c3aa3c029aad20f8535faf970bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b613669ac304b5b8e4cf16b2ebc69256/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c3aabdb6fa7853a805da9d92762061c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/325a21bcb0c27a26a6311f7a64fefd74/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1334f0c8b268d4d07279b4c9e4c4d5f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbc57c8a82f2fadab0b1234269fce3c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e4a59ef1042344408ab73d5f3fc2de0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/63aef58e9decdadd499a5c982be8b11d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf052195cd001c8ea961a77607be0a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5703dc16ce526ca5b61ad0bc81d594f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/186f370f000e1f64369a45bff77dc2fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cdfa539cff771030e880d1a721100705/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c2b64e3bf668195a9610bad14223bcfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/daa619018028a9767bb0271eb2771ed5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d6031b23a68c1f3544e8db41bd6354ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276731106b7fca4424f80e75ccf58a77/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b518b4f55e42cdea56ffd8024f25e9ec/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/402c740d3d7e7e204d38736a33fd83bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3fe9fea954556997046bab832cbf18c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/967131b669d02294e1afbc85ccd6b08d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/nulo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/cf4acefd9575954f1b9dc8f20ef0a8b5/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7d8477b0d45e58a6f08c7d6a555b8b72/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/325a21bcb0c27a26a6311f7a64fefd74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/325a21bcb0c27a26a6311f7a64fefd74/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/967131b669d02294e1afbc85ccd6b08d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/967131b669d02294e1afbc85ccd6b08d/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/nulo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/cf4acefd9575954f1b9dc8f20ef0a8b5/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/nulo/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/cf4acefd9575954f1b9dc8f20ef0a8b5/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.sampleproject.MainActivity
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /Users/nulo/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/50882de6725b93dfe539e2abd43351c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68a7c2cf8e919f2e759b49d6ca354049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/68a7c2cf8e919f2e759b49d6ca354049/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4c40809a112ed7b8bc0dab27812c0db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d4c40809a112ed7b8bc0dab27812c0db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cd2758c8c3559a5a3e7e3f184b3836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cd2758c8c3559a5a3e7e3f184b3836/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b7165aab9281091844b0a555f7ef055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b7165aab9281091844b0a555f7ef055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8e563e96e65c063da033b836969bc09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8e563e96e65c063da033b836969bc09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661ee41c13147d147118b643167f4bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/661ee41c13147d147118b643167f4bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/781e3c4a77bfe2ed864508a47795937b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/781e3c4a77bfe2ed864508a47795937b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8aa5844f27cd73d6427611998c6071e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8aa5844f27cd73d6427611998c6071e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ad9f26b8b8b5285e64aa5f19f26a324d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ad9f26b8b8b5285e64aa5f19f26a324d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/459d240cd4f3808075d1b4174fe61d88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/459d240cd4f3808075d1b4174fe61d88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da432fc12f21eeedb8e8abfe40f48652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/da432fc12f21eeedb8e8abfe40f48652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/37588c3aa3c029aad20f8535faf970bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/37588c3aa3c029aad20f8535faf970bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b613669ac304b5b8e4cf16b2ebc69256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b613669ac304b5b8e4cf16b2ebc69256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c3aabdb6fa7853a805da9d92762061c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c3aabdb6fa7853a805da9d92762061c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/575675f81ec3dd7aeb92532ed0881ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/325a21bcb0c27a26a6311f7a64fefd74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/325a21bcb0c27a26a6311f7a64fefd74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1334f0c8b268d4d07279b4c9e4c4d5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1334f0c8b268d4d07279b4c9e4c4d5f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbc57c8a82f2fadab0b1234269fce3c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbc57c8a82f2fadab0b1234269fce3c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e4a59ef1042344408ab73d5f3fc2de0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e4a59ef1042344408ab73d5f3fc2de0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/63aef58e9decdadd499a5c982be8b11d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/63aef58e9decdadd499a5c982be8b11d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf052195cd001c8ea961a77607be0a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7cf052195cd001c8ea961a77607be0a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5703dc16ce526ca5b61ad0bc81d594f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5703dc16ce526ca5b61ad0bc81d594f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/186f370f000e1f64369a45bff77dc2fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/186f370f000e1f64369a45bff77dc2fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cdfa539cff771030e880d1a721100705/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cdfa539cff771030e880d1a721100705/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c2b64e3bf668195a9610bad14223bcfc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nulo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c2b64e3bf668195a9610bad14223bcfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/daa619018028a9767bb0271eb2771ed5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/daa619018028a9767bb0271eb2771ed5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d6031b23a68c1f3544e8db41bd6354ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/d6031b23a68c1f3544e8db41bd6354ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276731106b7fca4424f80e75ccf58a77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/276731106b7fca4424f80e75ccf58a77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b518b4f55e42cdea56ffd8024f25e9ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b518b4f55e42cdea56ffd8024f25e9ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/402c740d3d7e7e204d38736a33fd83bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/402c740d3d7e7e204d38736a33fd83bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3fe9fea954556997046bab832cbf18c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/3fe9fea954556997046bab832cbf18c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/967131b669d02294e1afbc85ccd6b08d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/967131b669d02294e1afbc85ccd6b08d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7d8477b0d45e58a6f08c7d6a555b8b72/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/nulo/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/7d8477b0d45e58a6f08c7d6a555b8b72/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/nulo/Desktop/Project/SampleProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
